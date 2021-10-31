@@ -1,5 +1,4 @@
 const LinksSocialMedia = {
-  youtube: 'naotem',
   facebook: 'caioherbertt',
   github: 'caioherbertt',
   instagram: 'caio.herbertt'
